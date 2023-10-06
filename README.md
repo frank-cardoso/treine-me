@@ -10,3 +10,8 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+
+<h2>💻 Projeto</h2>
+<p>Nesse desafio, recebemos um código com o projeto desenvolvido durante as aulas da Fase 02.<br> 
+   O código estava alterado e não utilizava a semântica adequada para os leitores de tela e motores de busca.
+</p>
