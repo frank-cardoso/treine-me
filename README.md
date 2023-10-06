@@ -15,3 +15,7 @@
 <p>Nesse desafio, recebemos um código com o projeto desenvolvido durante as aulas da Fase 02.<br> 
    O código estava alterado e não utilizava a semântica adequada para os leitores de tela e motores de busca.
 </p>
+
+<h2>🔗 Página</h2>
+<p>Por meio desse link você pode ter acesso ao site.</p>
+<a href="https://frank-cardoso.github.io/treine-me/" target="_blank">Página</a>
